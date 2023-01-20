@@ -1,0 +1,30 @@
+{
+  "name": "qr-code-component-repo",
+  "version": "1.0.0",
+  "description": "QR Code - Frontend Mentor Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egluna-dev/qr-code-component.git"
+  },
+  "keywords": [
+    "QR",
+    "Code",
+    "frontend",
+    "html",
+    "css",
+    "flexbox"
+  ],
+  "author": "E. Giovanni Luna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egluna-dev/qr-code-component/issues"
+  },
+  "homepage": "https://github.com/egluna-dev/qr-code-component#readme",
+  "dependencies": {
+    "vercel": "^28.12.8"
+  }
+}
